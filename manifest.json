@@ -2,16 +2,16 @@
   {
     "name": "Vector Operations",
     "desc": "A plugin allowing operations on vectors. eg. [1,3,5] + [1,6,3]",
-    "url": "https://github.com/ils510/jcalculator-plugins/blob/main/plugins/plugin-Vector-Plugin-1.0.0.zip?raw=true"
+    "url": "https://raw.githubusercontent.com/ils510/jcalculator-plugins/main/plugins/plugin-Vector-Plugin-1.0.0.zip"
   },
   {
     "name": "Athrithmetic",
     "desc": "A plugin allowing for basic operations. eg. 5 + 3",
-    "url": "https://github.com/ils510/jcalculator-plugins/blob/main/plugins/plugin-Arithmetic-Plugin-1.0.0.zip?raw=true"
+    "url": "https://raw.githubusercontent.com/ils510/jcalculator-plugins/main/plugins/plugin-Arithmetic-Plugin-1.0.0.zip"
   },
   {
     "name": "Trigonometry",
     "desc": "A plugin allowing for trigometric operations. eg. sin(1)",
-    "url": "https://github.com/ils510/jcalculator-plugins/blob/main/plugins/plugin-Trig-Plugin-1.0.0.zip?raw=true"
+    "url": "https://raw.githubusercontent.com/ils510/jcalculator-plugins/main/plugins/plugin-Trig-Plugin-1.0.0.zip"
   }
 ]
