@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vector Operations",
+    "desc": "A plugin allowing operations on vectors. eg. [1,3,5] + [1,6,3]",
+    "url": ""
+  },
+  {
+    "name": "Athrithmetic",
+    "desc": "A plugin allowing for basic operations. eg. 5 + 3",
+    "url": ""
+  },
+  {
+    "name": "Trigonometry",
+    "desc": "A plugin allowing for trigometric operations. eg. sin(1)",
+    "url": ""
+  }
+]
